@@ -1,3 +1,5 @@
 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
 HELLO
 fffkk
+
+<esc> + :q!
